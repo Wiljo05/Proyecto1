@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Diseño Web"
+		},
+		{
+			"path": "..\\Progra"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto"
+	}
+}
